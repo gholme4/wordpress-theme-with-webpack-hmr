@@ -1,4 +1,4 @@
-## Basic Bootstrap Theme with Webpack and HMR
+## [Basic Bootstrap Theme with Webpack and HMR](https://gholme4.github.io/wordpress-theme-with-webpack-hmr/)
 
 This WordPress theme demonstrates the use of Webpack for compiling assets during development. It includes the use of Bootstrap 4's SCSS components and features hot module replacement. HMR is triggered by changes to the source JS and CSS files. This theme is based on [Underscores](https://underscores.me/).
 
